@@ -1,0 +1,1 @@
+Proyecto de JavaScript utilizando nodeJS, MySQL, Express, passport, cookie-parser, express-handlebars como motor de plantillas, express-validator, nodemon, morgan, connect-flash y Bootstrap5, con login y registro para almacenar urls.
